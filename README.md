@@ -62,7 +62,6 @@ Hot Spice up your life New Orleans style with our highly seasoned Cajun chicken,
 * Grapes Juice  8 Nis __Fresh Grapes__ 
 ![Grapes Juice](http://www.pachd.com/free-images/food-images/grapes-01.jpg)
 
-
     - Neapolitan
     + Price = 35 Nis
     + kkkkkkkkkkkkkkkkkkk
@@ -85,3 +84,15 @@ Hot Spice up your life New Orleans style with our highly seasoned Cajun chicken,
 ![Alt text](http://food.fnr.sndimg.com/content/dam/images/food/fullset/2009/5/27/0/0125629_03_chicken-in-skillet_s4x3.jpg.rend.hgtvcom.616.462.suffix/1371589386937.jpeg "Optional title")
 * Salad of chicken (25 NIS): A trap for vegetarians.  
 ![Alt text](http://www.simplyrecipes.com/wp-content/uploads/2012/06/chicken-salad-square-a-1800.jpg "Optional title")
+
+* Fruit Salad   10 Nis contains all fruits
+![alt fruit](http://southernbite.com/wp-content/uploads/2012/05/SouthernBiteFruitSalad-2.jpg)
+
+* Mahashe     20 Nis kusa 
+
+![alt Mahashe](http://i0.wp.com/tareekaa.com/wp-content/uploads/2015/07/img_9363.jpg?resize=554%2C380)
+
+* Mlukea    20 Nis  with rice 
+
+![alt Mlukea](https://img-global.cpcdn.com/009_recipes/5ec4b300c97cdc83/260x366cq50/photo.jpg)
+
