@@ -72,6 +72,8 @@ Assignment: Each issue can be assigned to a person in-charge to fix the issue. I
 Use the Bug Tracking Feature in GitHub and provide screenshots of these features in use.
 
 ### Code Review
+Picture. We are lucky though:
+![Compare Results](compare.PNG)
 Sometimes you want to see the differences between code branches.  See if you can figure out how to use the compare feature in Github to see the code changes between two different branches of your repo.  Attach screenshots of these code comparisons to this document.  
 
 ### Documenting
