@@ -77,7 +77,7 @@ Sometimes you want to see the differences between code branches.  See if you can
 ### Documenting
 
 Picture:
-![Wiki] (wiki.PNG)
+![Wiki](wiki.PNG)
 
 Adding supplemental documentation helps developers better understand projects and communicate with each other.  You can formally maintain documentation using the GitHub Wiki or use a fun Github Hubot to have fun meme and emoji-filled conversations with your team.  Implement a form of documentation in your organization and attach screenshots below.
 
