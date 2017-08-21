@@ -30,7 +30,7 @@ Hot Spice up your life New Orleans style with our highly seasoned Cajun chicken,
     + the grass of Haven
     + ![Molokeyha](http://nooun.net/img/article/banner/ed06d3ba5d8642259fdc2017240870f7.jpg)
     
-    * Dwali ![alt Dwali] (http://www.encyclopediacooking.com/upload_recipes_online/uploads/images_%D8%B9%D9%85%D9%84-%D9%88%D8%B1%D9%82-%D8%B9%D9%86%D8%A8-%D8%A8%D8%B2%D9%8A%D8%AA-%D8%A7%D9%84%D8%B2%D9%8A%D8%AA%D9%88%D9%86-%D9%85%D8%B9-%D8%AE%D8%B7%D9%88%D8%A7%D8%AA-%D9%84%D9%81-%D9%88%D8%B1%D9%82-%D8%A7%D9%84%D8%B9%D9%86%D8%A8-%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1.jpg)
+    * Dwali ![alt Dwali](https://i.ytimg.com/vi/ytrNbrCfCdk/hqdefault.jpg)
     + Price: 25 Nis
     + The best thing U can ever try
     
