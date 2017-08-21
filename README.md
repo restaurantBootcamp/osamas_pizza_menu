@@ -4,3 +4,7 @@
  - Yalanjeh
  - Spaghetti
  - Molokeyha
+
+- ma8lwba
+- mansaf
+- fiareflay
