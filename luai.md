@@ -4,11 +4,11 @@ Picture:
 ![Alt text](https://static.comicvine.com/uploads/scale_small/8/80111/5766160-actioncomics976-gary-frank.jpg "Optional title")
 
 Favorite Songs:
-Whatever Lorenzo is playing
-I See Fire Remix
-Unity
-Remember The Name
-Oh Ashes
+* Whatever Lorenzo is playing
+* I See Fire Remix
+* Unity
+* Remember The Name
+* Oh Ashes
 
 "For" example:
 ```
