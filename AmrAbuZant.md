@@ -2,7 +2,7 @@
 ## Team: Osama's Pizza
 
 
-![Profile Picture](http://imgur.com/a/hQiKc)
+![Profile Picture](http://i.imgur.com/lL5kNr3.jpg)
 
 + Don't Stop the music
 + Halo
