@@ -1,3 +1,6 @@
-Mega ultra burger
-Fried chicken
-Salad of chicken
+# osamas_pizza_menu
+
+### Amr Menu
+ - Yalanjeh
+ - Spaghetti
+ - Molokeyha
