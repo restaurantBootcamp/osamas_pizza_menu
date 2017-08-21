@@ -1,5 +1,5 @@
 Menu:
 
-*Mega ultra burger
-*Fried chicken
-*Salad of chicken
+* Mega ultra burger
+* Fried chicken
+* Salad of chicken
