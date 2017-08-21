@@ -1,8 +1,6 @@
 
 # osamas_pizza_menu
 
-<<<<<<< HEAD
-### Ali Menu
 *<h2>VEGGIE Pizza Price : 22 $</h2>
 Loaded with our favourite Veggies! A delightful combo of fresh spinach, mixed peppers, red onions, sweetcorn and mushrooms.<
 ![pizza21](https://www.pizzahut.co.uk/restaurants/r/SysSiteAssets/rebrand/food/foodhero/pzh1800_5473_individual_pan_teaser_460x960px.png)
@@ -37,4 +35,4 @@ Hot Spice up your life New Orleans style with our highly seasoned Cajun chicken,
 | Veggetables with soure cream   | centered      |   $12 |
 | Pepperoni & chessy bites       | are neat       |    $1 |
 
->>>>>>> 5f9a5b9c9ff1bd26c5582692253f5edd259c7ba7
+
