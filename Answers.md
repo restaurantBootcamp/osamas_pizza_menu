@@ -17,7 +17,7 @@ Create an organization for restaurant on Github.  Also create a respository insi
 ### Adding Team Members and Collaborators
 Add the rest of your team to the organization, what permissions does each team member have? Modify the permissions as you see fit.  Place their username and permissions below:
 
-```
+
 ..*AlaaZuhour Owner
 ..*AliPs94 Owner
 ..*amr-213 Owner
@@ -26,8 +26,6 @@ Add the rest of your team to the organization, what permissions does each team m
 ..*LuaiCOMP4382 Owner
 ..*MohammadIbrahim Owner
 ..*Shoroqmar Owner
-
-```
 
 
 Add your instructor (@lrnzbr) as a collaborator.
@@ -77,6 +75,10 @@ Picture. We are lucky though:
 Sometimes you want to see the differences between code branches.  See if you can figure out how to use the compare feature in Github to see the code changes between two different branches of your repo.  Attach screenshots of these code comparisons to this document.  
 
 ### Documenting
+
+Picture:
+![Wiki] (wiki.PNG)
+
 Adding supplemental documentation helps developers better understand projects and communicate with each other.  You can formally maintain documentation using the GitHub Wiki or use a fun Github Hubot to have fun meme and emoji-filled conversations with your team.  Implement a form of documentation in your organization and attach screenshots below.
 
 ### Analytics
