@@ -11,7 +11,8 @@ Remember The Name
 Oh Ashes
 
 "For" example:
-
+```
 // Print "Hello" 100 times
 for (int i = 0; i < 100; i++)
 	System.out.println("Hello");
+```
