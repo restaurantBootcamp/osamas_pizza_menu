@@ -32,9 +32,9 @@ Hot Spice up your life New Orleans style with our highly seasoned Cajun chicken,
     
 | Pizza Type                     | Picture       | Price  |
 | -------------                  |:-------------:| -----:|
-| Tripple Chesse With Chicken    | ![alt chesse](http://slice.seriouseats.com/images/2012/05/20120524-0207712-pizza-hut-cheesy-bites-whole.jpg)| $1600 |
-| Veggetables with soure cream   | centered      |   $12 |
-| Pepperoni & chessy bites       | are neat       |    $1 |
+| Tripple Chesse With Chicken    | ![alt chesse](https://www.toppers.com/Portals/0/house-pizza-buffalo-chicken.jpg)  | $1600 |
+| Veggetables with soure cream   |  ![alt chesse](https://smittenkitchendotcom.files.wordpress.com/2017/02/broccoli-pizza.jpg?w=1200)  |   $12 |
+| Pepperoni & chessy bites       |![alt chesse](http://slice.seriouseats.com/images/2012/05/20120524-0207712-pizza-hut-cheesy-bites-whole.jpg)       |    $1 |
 
 
 ### Zeina Menu 
