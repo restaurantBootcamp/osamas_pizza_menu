@@ -13,6 +13,9 @@
 
 ### "For" example  in my Fav JS language:
 
+```
+
+
 var obj = {a: 1, b: 2, c: 3};
     
 for (var prop in obj) {
@@ -23,3 +26,6 @@ for (var prop in obj) {
 // "obj.a = 1"
 // "obj.b = 2"
 // "obj.c = 3"
+
+
+```
