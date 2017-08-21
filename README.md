@@ -1,6 +1,5 @@
 # osamas_pizza_menu
 
-Tulkram Pizza
 ### Ali Menu
 *<h2>VEGGIE Pizza Price : 22 $</h2>
 Loaded with our favourite Veggies! A delightful combo of fresh spinach, mixed peppers, red onions, sweetcorn and mushrooms.<
