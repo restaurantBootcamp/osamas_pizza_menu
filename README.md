@@ -1,5 +1,3 @@
-
-
 # osamas_pizza_menu
 
 *<h2>VEGGIE Pizza Price : 22 $</h2>
@@ -30,18 +28,23 @@ Hot Spice up your life New Orleans style with our highly seasoned Cajun chicken,
     + the grass of Haven
     + ![Molokeyha](http://nooun.net/img/article/banner/ed06d3ba5d8642259fdc2017240870f7.jpg)
     
-    * Dwali ![alt Dwali](https://i.ytimg.com/vi/ytrNbrCfCdk/hqdefault.jpg)
+  -  Dwali 
     + Price: 25 Nis
     + The best thing U can ever try
+    + ![alt Dwali](https://i.ytimg.com/vi/ytrNbrCfCdk/hqdefault.jpg)
     
-    * Pizza Margherita ![alt Pizza]( https://static01.nyt.com/images/2014/04/09/dining/09JPPIZZA2/09JPPIZZA2-articleLarge.jpg)
+  - Pizza Margherita 
     + price : Free 
-    +Melting cheese 
+    + Melting cheese 
+    ![alt Pizza]( https://static01.nyt.com/images/2014/04/09/dining/09JPPIZZA2/09JPPIZZA2-articleLarge.jpg)
     
     
-    * Kabsa ![alt Kabsa](http://img.3a2ilati.com/VZnrWvFGzJrMpB4FLBv8ZUgWBSE=/0x0/smart/http://harmony-assets-live.s3.amazonaws.com/image_source/8d/61/8d6197e144f3f24a46b39266c9fdce3d93a39fb6.jpg)
+   - Kabsa 
     + price: 100 Nis
     + The best rice and spices
+    + ![alt Kabsa](http://img.3a2ilati.com/VZnrWvFGzJrMpB4FLBv8ZUgWBSE=/0x0/smart/http://harmony-assets-live.s3.amazonaws.com/image_source/8d/61/8d6197e144f3f24a46b39266c9fdce3d93a39fb6.jpg)
+    
+    
 
     
 | Pizza Type                     | Picture       | Price  |
