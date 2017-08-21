@@ -18,14 +18,14 @@ Create an organization for restaurant on Github.  Also create a respository insi
 Add the rest of your team to the organization, what permissions does each team member have? Modify the permissions as you see fit.  Place their username and permissions below:
 
 
-..*AlaaZuhour Owner
-..*AliPs94 Owner
-..*amr-213 Owner
-..*dev-zeina Owner
-..*haneentalawneh Owner
-..*LuaiCOMP4382 Owner
-..*MohammadIbrahim Owner
-..*Shoroqmar Owner
+* AlaaZuhour Owner
+* AliPs94 Owner
+* amr-213 Owner
+* dev-zeina Owner
+* haneentalawneh Owner
+* LuaiCOMP4382 Owner
+* MohammadIbrahim Owner
+* Shoroqmar Owner
 
 
 Add your instructor (@lrnzbr) as a collaborator.
