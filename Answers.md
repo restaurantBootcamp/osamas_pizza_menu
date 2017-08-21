@@ -50,6 +50,10 @@ In the README file, you will create a menu for your restaurant.  Every team memb
 
 
 ### Bug Tracking
+
+Picture:  
+![Alt text] (bt.PNG "Bug Tracking")
+
 In Github, the center for all bug tracking are the Issues. Even though they are primarily for bug tracking, it is also helpful to use Issues in the following ways:
 
 *  Bugs: Things that are obviously broken and need fixes
