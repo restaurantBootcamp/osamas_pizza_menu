@@ -13,4 +13,17 @@
     + Price = 35 Nis
     + the grass of Haven
     + ![Molokeyha](http://nooun.net/img/article/banner/ed06d3ba5d8642259fdc2017240870f7.jpg)
+    
+    * Dwali ![alt Dwali] (http://www.encyclopediacooking.com/upload_recipes_online/uploads/images_%D8%B9%D9%85%D9%84-%D9%88%D8%B1%D9%82-%D8%B9%D9%86%D8%A8-%D8%A8%D8%B2%D9%8A%D8%AA-%D8%A7%D9%84%D8%B2%D9%8A%D8%AA%D9%88%D9%86-%D9%85%D8%B9-%D8%AE%D8%B7%D9%88%D8%A7%D8%AA-%D9%84%D9%81-%D9%88%D8%B1%D9%82-%D8%A7%D9%84%D8%B9%D9%86%D8%A8-%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1.jpg)
+    + Price: 25 Nis
+    + The best thing U can ever try
+    
+    * Pizza Margherita ![alt Pizza]( https://static01.nyt.com/images/2014/04/09/dining/09JPPIZZA2/09JPPIZZA2-articleLarge.jpg)
+    + price : Free 
+    +Melting cheese 
+    
+    
+    * Kabsa ![alt Kabsa](http://img.3a2ilati.com/VZnrWvFGzJrMpB4FLBv8ZUgWBSE=/0x0/smart/http://harmony-assets-live.s3.amazonaws.com/image_source/8d/61/8d6197e144f3f24a46b39266c9fdce3d93a39fb6.jpg)
+    + price: 100 Nis
+    + The best rice and spices
 
