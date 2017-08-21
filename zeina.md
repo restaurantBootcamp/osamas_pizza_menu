@@ -11,6 +11,15 @@
 * Tourner Dans Le Vide Lyrics
 
 
-### "For" example:
+### "For" example  in my Fav JS language:
 
-for (int i=0;i<10;i++) System.out.println("Hello World");
+var obj = {a: 1, b: 2, c: 3};
+    
+for (var prop in obj) {
+  console.log(`obj.${prop} = ${obj[prop]}`);
+}
+
+// Output:
+// "obj.a = 1"
+// "obj.b = 2"
+// "obj.c = 3"
